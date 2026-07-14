@@ -1,0 +1,45 @@
+IOS, Phone, Apple, Screen, 800
+IOS, Phone, Apple, Battery, 500
+IOS, Phone, Apple, Lens, 1200
+IOS, Phone, Apple, Motherboard, 1000
+IOS, Phone, Apple, Charging Port, 600
+Android, Phone, Samsung, Screen, 800
+Android, Phone, Samsung, Battery, 500
+Android, Phone, Samsung, Lens, 1000
+Android, Phone, Samsung, Motherboard, 1000
+Android, Phone, Samsung, Charging Port, 600
+Android, Phone, Huawei, Screen, 750
+Android, Phone, Huawei, Battery, 450
+Android, Phone, Huawei, Lens, 900
+Android, Phone, Huawei, Motherboard, 950
+Android, Phone, Huawei, Charging Port, 550
+IOS, Tablet, Apple, Screen, 750
+IOS, Tablet, Apple, Battery, 400
+IOS, Tablet, Apple, Lens, 600
+IOS, Tablet, Apple, Motherboard, 800
+IOS, Tablet, Apple, Charging Port, 600
+Android, Tablet, Samsung, Screen, 700
+Android, Tablet, Samsung, Battery, 300
+Android, Tablet, Samsung, Lens, 600
+Android, Tablet, Samsung, Motherboard, 800
+Android, Tablet, Samsung, Charging Port, 450
+Android, Tablet, Huawei, Screen, 720
+Android, Tablet, Huawei, Battery, 350
+Android, Tablet, Huawei, Lens, 650
+Android, Tablet, Huawei, Motherboard, 850
+Android, Tablet, Huawei, Charging Port, 500
+IOS, Laptop, Apple, Screen, 1000
+IOS, Laptop, Apple, Battery, 600
+IOS, Laptop, Apple, Fan, 500
+IOS, Laptop, Apple, Motherboard, 1200
+IOS, Laptop, Apple, Charging Port, 600
+Windows, Laptop, Acer, Screen, 800
+Windows, Laptop, Acer, Battery, 600
+Windows, Laptop, Acer, Fan, 500
+Windows, Laptop, Acer, Motherboard, 1000
+Windows, Laptop, Acer, Charging Port, 500
+Windows, Laptop, Huawei, Screen, 850
+Windows, Laptop, Huawei, Battery, 580
+Windows, Laptop, Huawei, Fan, 480
+Windows, Laptop, Huawei, Motherboard, 1100
+Windows, Laptop, Huawei, Charging Port, 520
